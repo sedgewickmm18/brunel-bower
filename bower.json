@@ -1,11 +1,12 @@
 {
   "name": "Brunel Visualization",
+  "version": "2.5.0",
   "authors": [
     "Graham Wills <gwills@us.ibm.com>",
     "Dan Rope <drope@us.ibm.com>"
   ],
   "description": "Domain specific language for data visualization",
-  "main": "",
+  "main": "./brunel.min.js",
   "license": "Apache-2.0",
   "homepage": "https://github.com/Brunel-Visualization/Brunel/wiki",
   "ignore": [
