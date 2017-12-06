@@ -1,0 +1,21 @@
+{
+  "name": "Brunel Visualization",
+  "authors": [
+    "Graham Wills <gwills@us.ibm.com>",
+    "Dan Rope <drope@us.ibm.com>"
+  ],
+  "description": "Domain specific language for data visualization",
+  "main": "",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Brunel-Visualization/Brunel/wiki",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.12.0"
+  }
+}
